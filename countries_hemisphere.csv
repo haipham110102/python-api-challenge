@@ -1,0 +1,247 @@
+Country,CountryName,Hemisphere
+DZ,Algeria,Northern Hemisphere
+AO,Angola,Southern Hemisphere
+BJ,Benin,Northern Hemisphere
+BW,Botswana,Southern Hemisphere
+BF,Burkina Faso,Northern Hemisphere
+BD,Burundi,Southern Hemisphere
+CM,Cameroon,Northern Hemisphere
+CV,Cape Verde,Northern Hemisphere
+CF,Central African Republic,Northern Hemisphere
+TD,Chad,Northern Hemisphere
+KM,Comoros,Southern Hemisphere
+CG,Congo,Northern Hemisphere
+CD,"Congo, Democratic Republic of",Northern Hemisphere
+CI,Côte d'Ivoire,Northern Hemisphere
+DJ,Djibouti,Northern Hemisphere
+EG,Egypt,Northern Hemisphere
+GQ,Equatorial Guinea,Northern Hemisphere
+ER,Eritrea,Northern Hemisphere
+SZ,Eswatini,Southern Hemisphere
+ET,Ethiopia,Northern Hemisphere
+GA,Gabon,Northern Hemisphere
+GM,Gambia,Northern Hemisphere
+GH,Ghana,Northern Hemisphere
+GN,Guinea,Northern Hemisphere
+GW,Guinea-Bissau,Northern Hemisphere
+KE,Kenya,Northern Hemisphere
+LS,Lesotho,Southern Hemisphere
+LR,Liberia,Northern Hemisphere
+LY,Libya,Northern Hemisphere
+MG,Madagascar,Southern Hemisphere
+MW,Malawi,Southern Hemisphere
+ML,Mali,Northern Hemisphere
+MR,Mauritania,Northern Hemisphere
+MU,Mauritius,Southern Hemisphere
+MA,Morocco,Northern Hemisphere
+MZ,Mozambique,Southern Hemisphere
+NA,Namibia,Northern Hemisphere
+NE,Niger,Northern Hemisphere
+NG,Nigeria,Northern Hemisphere
+RE,Reunion,Northern Hemisphere
+RA,Rwanda,Southern Hemisphere
+SH,Saint Helene,Northern Hemisphere
+ST,Sao Tome and Principe,Northern Hemisphere
+SN,Senegal,Northern Hemisphere
+SC,Seychelles,Southern Hemisphere
+SL,Sierra Leone,Northern Hemisphere
+SO,Somalia,Northern Hemisphere
+ZA,South Africa,Southern Hemisphere
+SS,South Sudan,Northern Hemisphere
+SD,Sudan,Northern Hemisphere
+TZ,Tanzania,Southern Hemisphere
+TG,Togo,Northern Hemisphere
+TN,Tunisia,Northern Hemisphere
+UG,Uganda,Northern Hemisphere
+EH,Western Sahara,Northern Hemisphere
+ZM,Zambia,Southern Hemisphere
+ZW,Zimbabwe,Southern Hemisphere
+AQ,Antarctica,Northern Hemisphere
+BV,Bouvet Island,Northern Hemisphere
+TF,French Southern Territories,Northern Hemisphere
+HM,Heard Island and McDonald Islands,Northern Hemisphere
+GS,South Georgia and the South Sandwich Islands,Northern Hemisphere
+AS,American Samoa,Northern Hemisphere
+AU,Australia,Southern Hemisphere
+CK,Cook Islands,Northern Hemisphere
+FJ,Fiji,Southern Hemisphere
+PF,French Polynesia,Northern Hemisphere
+GU,Guam,Northern Hemisphere
+KI,Kiribati,Northern Hemisphere
+MH,Marshall Islands,Northern Hemisphere
+FM,Micronesia,Northern Hemisphere
+NR,Nauru,Southern Hemisphere
+NC,New Caledonia,Northern Hemisphere
+NZ,New Zealand,Southern Hemisphere
+NU,Niue,Northern Hemisphere
+NF,Norfolk Island,Northern Hemisphere
+MP,Northern Mariana Islands,Northern Hemisphere
+PW,Palau,Northern Hemisphere
+PG,Papua New Guinea,Southern Hemisphere
+PN,Pitcairn Islands,Northern Hemisphere
+WS,Samoa,Southern Hemisphere
+TK,Tokelau,Northern Hemisphere
+TO,Tonga,Northern Hemisphere
+TV,Tuvalu,Southern Hemisphere
+UM,United States Minor Outlying Islands,Northern Hemisphere
+VU,Vanuatu,Southern Hemisphere
+WF,Wallis and Futana,Northern Hemisphere
+AF,Afghanistan,Northern Hemisphere
+AZ,Azerbaijan,Northern Hemisphere
+BH,Bahrain,Northern Hemisphere
+BD,Bangladesh,Northern Hemisphere
+BT,Bhutan,Northern Hemisphere
+IO,British Indian Ocean Territory,Northern Hemisphere
+BN,Brunei Darussalam,Northern Hemisphere
+KH,Cambodia,Northern Hemisphere
+CN,China,Northern Hemisphere
+CX,Christmas Island,Northern Hemisphere
+CC,Cocos (Keeling) Island,Northern Hemisphere
+CY,Cyprus,Northern Hemisphere
+GE,Georgia,Northern Hemisphere
+HK,Hong Kong,Northern Hemisphere
+IN,India,Northern Hemisphere
+ID,Indonesia,Northern Hemisphere
+IR,Iran,Northern Hemisphere
+IQ,Iraq,Northern Hemisphere
+IL,Israel,Northern Hemisphere
+JP,Japan,Northern Hemisphere
+JO,Jordan,Northern Hemisphere
+KZ,Kazakhstan,Northern Hemisphere
+KP,"Korea, Democratic People’s Republic of (North Korea)",Northern Hemisphere
+KR,"Korea, Republic of (South Korea)",Northern Hemisphere
+KW,Kuwait,Northern Hemisphere
+KG,Kyrgyzstan,Northern Hemisphere
+LA,Lao People’s Democratic Republic,Northern Hemisphere
+LB,Lebanon,Northern Hemisphere
+MO,Macao,Northern Hemisphere
+MY,Malaysia,Northern Hemisphere
+MV,Maldives,Northern Hemisphere
+MN,Mongolia,Northern Hemisphere
+MM,Myanmar,Northern Hemisphere
+NP,Nepal,Northern Hemisphere
+OM,Oman,Northern Hemisphere
+PK,Pakistan,Northern Hemisphere
+PS,Palestinian Territory,Northern Hemisphere
+PH,Philippines,Northern Hemisphere
+QA,Qatar,Northern Hemisphere
+SA,Saudi Arabia,Northern Hemisphere
+SG,Singapore,Northern Hemisphere
+LK,Sri Lanka,Northern Hemisphere
+SY,Syrian Arab Republic,Northern Hemisphere
+TW,Taiwan,Northern Hemisphere
+TJ,Tajikistan,Northern Hemisphere
+TH,Thailand,Northern Hemisphere
+TL,Timor-Leste,Northern Hemisphere
+TR,Turkey,Northern Hemisphere
+TM,Turkmenistan,Northern Hemisphere
+AE,United Arab Emirates,Northern Hemisphere
+UZ,Uzbekistan,Northern Hemisphere
+VN,Vietnam,Northern Hemisphere
+YE,Yemen,Northern Hemisphere
+AX,Aland Islands,Northern Hemisphere
+AL,Albania,Northern Hemisphere
+AD,Andorra,Northern Hemisphere
+AM,Armenia,Northern Hemisphere
+AT,Austria,Northern Hemisphere
+BY,Belarus,Northern Hemisphere
+BE,Belgium,Northern Hemisphere
+BE,Bosnia and Herzegovina,Northern Hemisphere
+BG,Bulgaria,Northern Hemisphere
+HR,Croatia,Northern Hemisphere
+CZ,Czech Republic,Northern Hemisphere
+DK,Denmark,Northern Hemisphere
+EE,Estonia,Northern Hemisphere
+FO,Faroe Islands,Northern Hemisphere
+FI,Finland,Northern Hemisphere
+FR,France,Northern Hemisphere
+DE,Germany,Northern Hemisphere
+GI,Gibraltar,Northern Hemisphere
+GR,Greece,Northern Hemisphere
+GG,Guernsey,Northern Hemisphere
+VA,Vatican City,Northern Hemisphere
+HU,Hungary,Northern Hemisphere
+IS,Iceland,Northern Hemisphere
+IE,Ireland,Northern Hemisphere
+IM,Isle of Man,Northern Hemisphere
+IT,Italy,Northern Hemisphere
+JE,Jersey,Northern Hemisphere
+LV,Latvia,Northern Hemisphere
+LI,Liechtenstein,Northern Hemisphere
+LT,Lithuania,Northern Hemisphere
+LU,Luxembourg,Northern Hemisphere
+MK,Macedonia,Northern Hemisphere
+MT,Malta,Northern Hemisphere
+MD,Moldova,Northern Hemisphere
+MC,Monaco,Northern Hemisphere
+ME,Montenegro,Northern Hemisphere
+NL,Netherlands,Northern Hemisphere
+NO,Norway,Northern Hemisphere
+PL,Poland,Northern Hemisphere
+PT,Portugal,Northern Hemisphere
+RO,Romania,Northern Hemisphere
+RU,Russia,Northern Hemisphere
+SM,San Marino,Northern Hemisphere
+RS,Serbia,Northern Hemisphere
+SK,Slovakia,Northern Hemisphere
+SI,Slovenia,Northern Hemisphere
+ES,Spain,Northern Hemisphere
+SJ,Svalbard & Jan Mayen Islands,Northern Hemisphere
+SE,Sweden,Northern Hemisphere
+CH,Switzerland,Northern Hemisphere
+UA,Ukraine,Northern Hemisphere
+GB,United Kingdom,Northern Hemisphere
+AI,Anguilla,Northern Hemisphere
+AW,Aruba,Northern Hemisphere
+BQ,"Bonaire, Saint Eustatius and Saba",Northern Hemisphere
+CU,Cuba,Northern Hemisphere
+CW,Curaçao,Northern Hemisphere
+DM,Dominica,Northern Hemisphere
+DO,Dominican Republic,Northern Hemisphere
+SV,El Salvador,Northern Hemisphere
+GL,Greenland,Northern Hemisphere
+GD,Grenada,Northern Hemisphere
+GP,Guadeloupe,Northern Hemisphere
+GT,Guatemala,Northern Hemisphere
+HT,Haiti,Northern Hemisphere
+HN,Honduras,Northern Hemisphere
+JM,Jamaica,Northern Hemisphere
+MQ,Martinique,Northern Hemisphere
+MX,Mexico,Northern Hemisphere
+MS,Montserrat,Northern Hemisphere
+AN,Netherlands Antilles,Northern Hemisphere
+NI,Nicaragua,Northern Hemisphere
+PA,Panama,Northern Hemisphere
+PR,Puerto Rico,Northern Hemisphere
+BL,Saint Barthelemy,Northern Hemisphere
+KN,Saint Kitts and Nevis,Northern Hemisphere
+LC,Saint Lucia,Northern Hemisphere
+MF,Saint Martin,Northern Hemisphere
+PM,Saint Pierre and Miquelon,Northern Hemisphere
+VC,Saint Vincent and the Grenadines,Northern Hemisphere
+SX,Saint Maarten,Northern Hemisphere
+TT,Trinidad and Tobago,Northern Hemisphere
+TC,Turks and Caicos Islands,Northern Hemisphere
+UM,United States Minor Outlying Islands,Northern Hemisphere
+US,United States of America,Northern Hemisphere
+VI,United States Virgin Islands,Northern Hemisphere
+AR,Argentina,Southern Hemisphere
+BO,Bolivia,Southern Hemisphere
+BR,Brazil,Northern Hemisphere
+CL,Chile,Southern Hemisphere
+CO,Colombia,Northern Hemisphere
+EC,Ecuador,Northern Hemisphere
+FK,Falkland Islands,Northern Hemisphere
+GF,French Guiana,Northern Hemisphere
+GY,Guyana,Northern Hemisphere
+PY,Paraguay,Southern Hemisphere
+PE,Peru,Southern Hemisphere
+SR,Suriname,Northern Hemisphere
+UY,Uruguay,Southern Hemisphere
+VE,Venezuela,Northern Hemisphere
+SB,Solomon Islands,Southern Hemisphere
+CA,Canada,Northern Hemisphere
+YT,Mayotte,Southern Hemisphere
+KY,Cayman Island,Northern Hemisphere
+VG,British Virgin Islands,Northern Hemisphere
+BB,Barbados,Northern Hemisphere
